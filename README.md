@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+commit
+
 ## How to contribute
