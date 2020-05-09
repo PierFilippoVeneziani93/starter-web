@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 commit
 
 ## How to contribute
+
+staging area
+
+working directory
